@@ -1,0 +1,3 @@
+rootProject.name = 'speakhow_3521'
+
+include ':app'
